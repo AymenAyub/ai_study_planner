@@ -1,6 +1,6 @@
 # AI Study Planner
 
-**Work in Progress** — This project is currently under development.
+**Work in Progress** (This project is currently under development)
 
 AI Study Planner is a web application designed to help students organize their study plans and manage their learning tasks efficiently.
 
